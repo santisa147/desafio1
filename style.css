@@ -1,0 +1,11 @@
+h1{
+    font-size: 50px;
+    text-decoration: none;
+    color: black;
+}
+.titulo{
+    width: 100vw;
+    height: 80px;
+    text-align: center;
+    background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(202,69,29,1) 25%, rgba(202,69,29,1) 50%, rgba(202,69,29,1) 75%, rgba(0,0,0,1) 100%);
+}
